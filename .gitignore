@@ -1,3 +1,11 @@
+# CarMin specific (large raw data files and partially preprocessed data files)
+./Data1/Data1_raw.csv
+./Data1/Data1_partially_preprocessed.csv
+./Data2/Data2_raw.csv
+
+# Mac folder system
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
