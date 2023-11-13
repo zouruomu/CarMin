@@ -1,6 +1,5 @@
 # CarMin specific (large raw data files and partially preprocessed data files)
 Data1_raw.csv
-Data1_partially_preprocessed.csv
 Data2_raw.csv
 
 # Mac folder system
