@@ -1,7 +1,7 @@
 # CarMin
 CPSC 437/537
 
-As noted in our report, there are 5 sections to our project:
+As noted in our final report (`FinalReport.pdf`), there are 5 sections to our project:
 
 * Section 1: Database Creation.
 * Section 2: Loading Database into MySQL.
@@ -9,5 +9,5 @@ As noted in our report, there are 5 sections to our project:
 * Section 4: Interactive Jupyter Notebook Demo.
 * Section 5: Plotting and EDA using R.
 
-The files of each section are prefixed with `SectionX_` for ease of identification. Detailed descriptions of each section, as well as any extra credit attempted, is detailed in `FinalReport.pdf`.
+The files of each section are prefixed with `SectionX_` for ease of identification. Detailed descriptions of each section, as well as any extra credit attempted, are included in `FinalReport.pdf`.
 
